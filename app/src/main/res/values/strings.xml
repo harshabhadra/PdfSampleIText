@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PdfSample3</string>
+    <string name="paragraph">After a long time, today I worked on new library that is iText as I have to implement functionality to give reports in PDF format in my running application.
+I googled a lot and after all I found best library to create PDF very easily using JAVA code (you can use for android too).
+I would like to share it with you all so it may useful in future.</string>
+</resources>
